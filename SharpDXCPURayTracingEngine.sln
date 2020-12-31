@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpDXCPURayTracingEngine", "SharpDXCPURayTracingEngine\SharpDXCPURayTracingEngine.csproj", "{737BCE73-F25F-4956-8CD0-2D9B30B94318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{737BCE73-F25F-4956-8CD0-2D9B30B94318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737BCE73-F25F-4956-8CD0-2D9B30B94318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737BCE73-F25F-4956-8CD0-2D9B30B94318}.Debug|x64.ActiveCfg = Debug|x64
+		{737BCE73-F25F-4956-8CD0-2D9B30B94318}.Debug|x64.Build.0 = Debug|x64
+		{737BCE73-F25F-4956-8CD0-2D9B30B94318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737BCE73-F25F-4956-8CD0-2D9B30B94318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737BCE73-F25F-4956-8CD0-2D9B30B94318}.Release|x64.ActiveCfg = Release|x64
+		{737BCE73-F25F-4956-8CD0-2D9B30B94318}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30F67D24-5BD9-49CC-976F-0E20E5489364}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0169: The field 'Engine.dbdescription' is never used
+dotnet_diagnostic.CS0169.severity = none
